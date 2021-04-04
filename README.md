@@ -84,7 +84,22 @@ Some Tips and Tricks about MS SQL Server.
 
 ## Useful links
 
-...
+* [Cycles Adventure Works](https://docs.microsoft.com/fr-fr/previous-versions/sql/sql-server-2008/ms124825(v=sql.100)?redirectedfrom=MSDN) - MS SQL Server DB sample
+* [Adventure Works](https://docs.microsoft.com/fr-fr/previous-versions/sql/sql-server-2008/ms124501(v=sql.100)?redirectedfrom=MSDN) - MS SQL Server DB sample
+* [SQL Authority](https://blog.sqlauthority.com/) - One of my references in SQL
+
+## Tomorrow I will learn about MSSQL
+
+* [Convert to MS Access](https://www.sqlserverlogexplorer.com/convert-database-to-ms-access-mdb/)
+* [tSQLt](https://tsqlt.org/) - An open source database unit testing framework for SQL Server
+* [MSSQL Exporter](https://github.com/DanielOliver/mssql_exporter)
+* http://www.sqlnuggets.com/blog/sql-scripts-how-to-find-missing-indexes/
+* https://www.sqlskills.com/blogs/glenn/category/dmv-queries/
+* https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-special-columns-transact-sql?view=sql-server-ver15
+* https://blog.sqlauthority.com/2006/11/01/sql-server-query-to-display-foreign-key-relationships-and-name-of-the-constraint-for-each-table-in-database/
+* https://www.red-gate.com/simple-talk/sql/database-administration/5-monitoring-queries-for-sql-server/
+* https://www.red-gate.com/simple-talk/sql/database-administration/creating-csv-files-using-bcp-and-stored-procedures/
+* https://www.red-gate.com/simple-talk/sql/t-sql-programming/exploring-your-database-schema-with-sql/
 
 ## Build with
 
