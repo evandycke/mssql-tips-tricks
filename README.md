@@ -2,7 +2,7 @@
 
 Some Tips and Tricks about MS SQL Server.
 
-[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 ![Microsoft SQL Server](./images/mssql-logo-256.png)
 
@@ -88,7 +88,7 @@ Some Tips and Tricks about MS SQL Server.
 * [Adventure Works](https://docs.microsoft.com/fr-fr/previous-versions/sql/sql-server-2008/ms124501(v=sql.100)?redirectedfrom=MSDN) - MS SQL Server DB sample
 * [SQL Authority](https://blog.sqlauthority.com/) - One of my references in SQL
 
-## Tomorrow I will learn about MSSQL
+## Tomorrow I will learn
 
 * [Convert to MS Access](https://www.sqlserverlogexplorer.com/convert-database-to-ms-access-mdb/)
 * [tSQLt](https://tsqlt.org/) - An open source database unit testing framework for SQL Server
@@ -104,10 +104,6 @@ Some Tips and Tricks about MS SQL Server.
 ## Build with
 
 * [Git](https://git-scm.com) - Open source distributed version control system
-
-## Getting started with ...
-
-...
 
 ## Contributing
 
