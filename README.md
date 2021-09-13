@@ -39,6 +39,7 @@ Some Tips and Tricks about MS SQL Server.
 * [Tables without a primary key](./scripts/pk_fk_constraints/tables-without-primary-key.sql)
 * [Tables without clustered index (and without any index at all)](./scripts/pk_fk_constraints/tables-without-clustered-index.sql)
 * [Top 10 most indexed tables](./scripts/pk_fk_constraints/top-10-most-indexed-tables.sql)
+* [Find tables with foreign keys](./scripts/pk_fk_constraints/find-tables-with-fk.sql)
 
 ### Triggers
 
@@ -84,6 +85,9 @@ Some Tips and Tricks about MS SQL Server.
 * [The latest modifications made to the database](./scripts/audit/latest-modification-made.sql)
 * [Top 20 longest queries](./scripts/audit/top-20-longest-queries.sql)
 * [Get the optimal set of columns that compose PK](./scripts/audit/optimal-set-of-columns.sql)
+* [Job status](./scripts/audit/job-status.sql)
+* [One stop view of tables structure](./scripts/audit/one-stop-view-of-tables-structure.sql)
+* [Get each object of tables](./scripts/audit/)
 
 ## Useful links
 
@@ -101,12 +105,6 @@ Some Tips and Tricks about MS SQL Server.
 * [Convert to MS Access](https://www.sqlserverlogexplorer.com/convert-database-to-ms-access-mdb/)
 * [tSQLt](https://tsqlt.org/) - An open source database unit testing framework for SQL Server
 * [MSSQL Exporter](https://github.com/DanielOliver/mssql_exporter)
-* https://www.sqlskills.com/blogs/glenn/category/dmv-queries/
-* https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-special-columns-transact-sql?view=sql-server-ver15
-* https://blog.sqlauthority.com/2006/11/01/sql-server-query-to-display-foreign-key-relationships-and-name-of-the-constraint-for-each-table-in-database/
-* https://www.red-gate.com/simple-talk/sql/database-administration/5-monitoring-queries-for-sql-server/
-* https://www.red-gate.com/simple-talk/sql/database-administration/creating-csv-files-using-bcp-and-stored-procedures/
-* https://www.red-gate.com/simple-talk/sql/t-sql-programming/exploring-your-database-schema-with-sql/
 
 ## Build with
 
